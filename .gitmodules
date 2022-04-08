@@ -1,81 +1,81 @@
 [submodule "cmake/external/protobuf"]
 	path = cmake/external/protobuf
-	url = https://github.com/protocolbuffers/protobuf.git
+	url = https://hub.fastgit.xyz/protocolbuffers/protobuf.git
 [submodule "cmake/external/googletest"]
 	path = cmake/external/googletest
-	url = https://github.com/google/googletest.git
+	url = https://hub.fastgit.xyz/google/googletest.git
 [submodule "cmake/external/onnx"]
 	path = cmake/external/onnx
-	url = https://github.com/onnx/onnx
+	url = https://hub.fastgit.xyz/onnx/onnx
 [submodule "cmake/external/tvm"]
 	path = cmake/external/tvm
-	url = https://github.com/microsoft/onnxruntime-tvm.git
+	url = https://hub.fastgit.xyz/microsoft/onnxruntime-tvm.git
 [submodule "cmake/external/date"]
 	path = cmake/external/date
-	url = https://github.com/HowardHinnant/date.git
+	url = https://hub.fastgit.xyz/HowardHinnant/date.git
 [submodule "cmake/external/nsync"]
 	path = cmake/external/nsync
-	url = https://github.com/google/nsync
+	url = https://hub.fastgit.xyz/google/nsync
 [submodule "cmake/external/re2"]
 	path = cmake/external/re2
-	url = https://github.com/google/re2.git
+	url = https://hub.fastgit.xyz/google/re2.git
 [submodule "cmake/external/eigen"]
 	path = cmake/external/eigen
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "cmake/external/cxxopts"]
 	path = cmake/external/cxxopts
-	url = https://github.com/jarro2783/cxxopts.git
+	url = https://hub.fastgit.xyz/jarro2783/cxxopts.git
 [submodule "cmake/external/tensorboard"]
 	path = cmake/external/tensorboard
-	url = https://github.com/tensorflow/tensorboard.git
+	url = https://hub.fastgit.xyz/tensorflow/tensorboard.git
 [submodule "cmake/external/mimalloc"]
 	path = cmake/external/mimalloc
-	url = https://github.com/microsoft/mimalloc.git
+	url = https://hub.fastgit.xyz/microsoft/mimalloc.git
 [submodule "cmake/external/cub"]
 	path = cmake/external/cub
-	url = https://github.com/NVlabs/cub.git
+	url = https://hub.fastgit.xyz/NVlabs/cub.git
 [submodule "cmake/external/wil"]
 	path = cmake/external/wil
-	url = https://github.com/microsoft/wil
+	url = https://hub.fastgit.xyz/microsoft/wil
 [submodule "cmake/external/json"]
 	path = cmake/external/json
-	url = https://github.com/nlohmann/json
+	url = https://hub.fastgit.xyz/nlohmann/json
 [submodule "server/external/spdlog"]
 	path = server/external/spdlog
-	url = https://github.com/gabime/spdlog.git
+	url = https://hub.fastgit.xyz/gabime/spdlog.git
 	branch = master
 [submodule "cmake/external/FeaturizersLibrary"]
 	path = cmake/external/FeaturizersLibrary
-	url = https://github.com/microsoft/FeaturizersLibrary.git
+	url = https://hub.fastgit.xyz/microsoft/FeaturizersLibrary.git
 [submodule "cmake/external/libprotobuf-mutator"]
 	path = cmake/external/libprotobuf-mutator
-	url = https://github.com/google/libprotobuf-mutator.git
+	url = https://hub.fastgit.xyz/google/libprotobuf-mutator.git
 [submodule "cmake/external/flatbuffers"]
 	path = cmake/external/flatbuffers
-	url = https://github.com/google/flatbuffers.git
+	url = https://hub.fastgit.xyz/google/flatbuffers.git
 [submodule "systolic_runner/halide_interop/Halide"]
 	path = systolic_runner/halide_interop/Halide
-	url = https://github.com/pranav-prakash/Halide.git
+	url = https://hub.fastgit.xyz/pranav-prakash/Halide.git
         ignore = dirty
 [submodule "cmake/external/SafeInt/safeint"]
 	path = cmake/external/SafeInt/safeint
-	url = https://github.com/dcleblanc/SafeInt.git
+	url = https://hub.fastgit.xyz/dcleblanc/SafeInt.git
 [submodule "cmake/external/optional-lite"]
 	path = cmake/external/optional-lite
-	url = https://github.com/martinmoene/optional-lite.git
+	url = https://hub.fastgit.xyz/martinmoene/optional-lite.git
 [submodule "cmake/external/mp11"]
 	path = cmake/external/mp11
-	url = https://github.com/boostorg/mp11.git
+	url = https://hub.fastgit.xyz/boostorg/mp11.git
 [submodule "cmake/external/coremltools"]
 	path = cmake/external/coremltools
-	url = https://github.com/apple/coremltools.git
+	url = https://hub.fastgit.xyz/apple/coremltools.git
 [submodule "cmake/external/onnx-tensorrt"]
 	path = cmake/external/onnx-tensorrt
-	url = https://github.com/onnx/onnx-tensorrt.git
+	url = https://hub.fastgit.xyz/onnx/onnx-tensorrt.git
 [submodule "cmake/external/dlpack"]
 	path = cmake/external/dlpack
-	url = https://github.com/dmlc/dlpack.git
+	url = https://hub.fastgit.xyz/dmlc/dlpack.git
 [submodule "cmake/external/emsdk"]
 	path = cmake/external/emsdk
-	url = https://github.com/emscripten-core/emsdk.git
+	url = https://hub.fastgit.xyz/emscripten-core/emsdk.git
 	branch = 2.0.13
